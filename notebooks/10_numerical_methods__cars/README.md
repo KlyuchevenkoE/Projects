@@ -1,6 +1,6 @@
 # Определение стоимости автомобилей. Применение численных методов 
 
-[ipynb]([notebooks/10_numerical_methods__cars/numerical_methods__cars.ipynb](https://github.com/KlyuchevenkoE/yandex_praktikum/blob/master/notebooks/10_numerical_methods__cars/numerical_methods__cars.ipynb))
+[ipynb](https://github.com/KlyuchevenkoE/yandex_praktikum/blob/master/notebooks/10_numerical_methods__cars/numerical_methods__cars.ipynb)
 
 ## Описание проекта
 
