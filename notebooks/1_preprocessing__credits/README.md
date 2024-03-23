@@ -1,4 +1,4 @@
-# Погноз оттока клиентов и оценка модели по методу AUC-ROC с применением f1-меры
+# Предварительная обработка и первичный анализ данных кредитного скоринга 
 
 [ipynb](https://github.com/KlyuchevenkoE/yandex_praktikum/blob/master/notebooks/1_preprocessing__credits/preprocessing__credits.ipynb)
 
