@@ -11,7 +11,7 @@
 - **scipy**
 - **matplotlib**
 - **numpy**
- **pathlib**
+- **pathlib**
 
 ## 
 
