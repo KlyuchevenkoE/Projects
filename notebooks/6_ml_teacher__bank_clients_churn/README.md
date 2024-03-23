@@ -1,4 +1,4 @@
-# Определение стоимости автомобилей. Применение численных методов 
+# Погноз оттока клиентов и оценка модели по методу AUC-ROC с применением f1-меры
 
 [ipynb](https://github.com/KlyuchevenkoE/yandex_praktikum/blob/master/notebooks/6_ml_teacher__bank_clients_churn/ml_teacher__bank_clients_churn.ipynb)
 
