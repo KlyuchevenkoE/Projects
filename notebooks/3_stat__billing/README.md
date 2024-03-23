@@ -12,6 +12,7 @@
 - **matplotlib**
 - **numpy**
 - **pathlib**
+- **stats**
 
 ## 
 
