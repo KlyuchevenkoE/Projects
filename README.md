@@ -8,7 +8,7 @@ Notebooks and descriptive parts are presented only in Russian for now
 |2.| []() |||
 |3.| []() |||
 |4.| []() |||
-|5.| []() |||
+|5.| [Mobile tariff recommendation](https://github.com/KlyuchevenkoE/yandex_praktikum/tree/master/notebooks/5_ml_base__billing) |Training a mobile tariff prediction model using basic ml techniques.|python, pandas, sklearn, CatBoost |
 |6.| [Clients churn](https://github.com/KlyuchevenkoE/yandex_praktikum/tree/master/notebooks/6_ml_teacher__bank_clients_churn) |Customer churn forecast and model evaluation using the AUC-ROC method and also f1-measure|python, pandas, numpy, sklearn, matplotlib, pandas_profiling|
 |7.| [Well drilling locations](https://github.com/KlyuchevenkoE/yandex_praktikum/tree/master/notebooks/7_ml_business_oil) |Application of machine learning methods to select well drilling locations|python, pandas, numpy, sklearn, matplotlib, stats, pathlib, pandas_profiling|
 |8.| [Gold recovery from ore](https://github.com/KlyuchevenkoE/yandex_praktikum/tree/master/notebooks/8_course_progect_2__industry) |Prediction of gold recovery rate from gold ore|python, pandas, numpy, sklearn, matplotlib, scipy, pathlib, pandas_profiling|
