@@ -4,8 +4,8 @@ Notebooks and descriptive parts are presented only in Russian for now
 
 | #    | Project name               | Description                                                     | Stack                                                         |
 | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-|1.| []() |||
-|2.| [Real estate](https://github.com/KlyuchevenkoE/yandex_praktikum/tree/master/notebooks/2_EDA__real_estate) |Apartments advertisements exploratory data analysis||
+|1.| [Credits](https://github.com/KlyuchevenkoE/yandex_praktikum/tree/master/notebooks/1_preprocessing__credits) |Borrower reliability research. Preprocessing|python, pandas|
+|2.| [Real estate](https://github.com/KlyuchevenkoE/yandex_praktikum/tree/master/notebooks/2_EDA__real_estate) |Apartments advertisements exploratory data analysis|python, pandas, matplotlib, plotly|
 |3.| [Mobile operator billing](https://github.com/KlyuchevenkoE/yandex_praktikum/tree/master/notebooks/3_stat__billing) |Statistical analysis of mobile operator billing data|python, pandas, matplotlib, numpy, stats, scipy, plotly|
 |4.| [Computer game sales analysis](https://github.com/KlyuchevenkoE/yandex_praktikum/tree/master/notebooks/4_course_progect_1__games) |Computer game sales analysis|python, pandas, matplotlib, seaborn, numpy, stats, scipy, plotly|
 |5.| [Mobile tariff recommendation](https://github.com/KlyuchevenkoE/yandex_praktikum/tree/master/notebooks/5_ml_base__billing) |Training a mobile tariff prediction model using basic ml techniques.|python, pandas, sklearn, CatBoost |
