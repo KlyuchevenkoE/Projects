@@ -9,7 +9,7 @@ Notebooks and descriptive parts are presented only in Russian for now
 |3.| []() |||
 |4.| []() |||
 |5.| []() |||
-|6.| [Clients churn](https://github.com/KlyuchevenkoE/yandex_praktikum/tree/master/notebooks/6_ml_teacher__bank_clients_churn) |Customer churn forecast and model evaluation using AUC-ROC methods|python, pandas, numpy, sklearn, matplotlib, pandas_profiling|
+|6.| [Clients churn](https://github.com/KlyuchevenkoE/yandex_praktikum/tree/master/notebooks/6_ml_teacher__bank_clients_churn) |Customer churn forecast and model evaluation using the AUC-ROC method and also f1-measure|python, pandas, numpy, sklearn, matplotlib, pandas_profiling|
 |7.| [Well drilling locations](https://github.com/KlyuchevenkoE/yandex_praktikum/tree/master/notebooks/7_ml_business_oil) |Application of machine learning methods to select well drilling locations|python, pandas, numpy, sklearn, matplotlib, stats, pathlib, pandas_profiling|
 |8.| [Gold recovery from ore](https://github.com/KlyuchevenkoE/yandex_praktikum/tree/master/notebooks/8_course_progect_2__industry) |Prediction of gold recovery rate from gold ore|python, pandas, numpy, sklearn, matplotlib, scipy, pathlib, pandas_profiling|
 |9.| [Personal data protection](https://github.com/KlyuchevenkoE/yandex_praktikum/tree/master/notebooks/9_linear_algebra__encryption) |Encryption using inverse matrices| python, pandas, numpy, sklearn, matplotlib |
