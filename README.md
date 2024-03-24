@@ -17,7 +17,7 @@ Notebooks and descriptive parts are presented only in Russian for now
 |11.| [Taxi demand forecast](https://github.com/KlyuchevenkoE/yandex_praktikum/tree/master/notebooks/11_time_series__taxi) | Taxi demand forecast using time series analysis|python, pandas, seaborn, matplotlib, pandas_profiling,  statsmodels, numpy, sklearn, CatBoost, LGBm |
 |12.| [Toxic comments](https://github.com/KlyuchevenkoE/yandex_praktikum/tree/master/notebooks/12_ml_text__toxic_comments) |Defining Toxic Comments  |python, pandas, numpy, sklearn, LGBm, contextlib, re, nltk, spacy|
 |13.| [Determining customers age](https://github.com/KlyuchevenkoE/yandex_praktikum/tree/master/notebooks/13_CV__cusomers_age) |Determining customers age from photo |python, pandas, numpy, matplotlib, tensorflow |
-|14.| []() | | |
+|14.| [Steel temperature prediction](https://github.com/KlyuchevenkoE/yandex_praktikum/tree/master/notebooks/14_final_project__industry) |Steel temperature prediction | python, pandas, numpy, sklearn, keras, tensorflow, tempfile, shutil, catboost|
 | | [Curriculum](https://github.com/KlyuchevenkoE/yandex_praktikum/blob/master/%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0%20%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D1%8F_%D0%A1%D0%BF%D0%B5%D1%86%D0%B8%D0%B0%D0%BB%D0%B8%D1%81%D1%82_%D0%BF%D0%BE_Data_Science.pdf) | Training program for matching |
 |  |[Environment](https://github.com/KlyuchevenkoE/yandex_praktikum/blob/master/Environment.pdf)| Instructions for installing and configuring an environment that is optimal for these projects ||
 
