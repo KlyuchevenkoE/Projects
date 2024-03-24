@@ -36,7 +36,7 @@
 - sklearn.model_selection.**GridSearchCV**
 - sklearn.model_selection.**KFold**
   
-- klearn.metrics.**mean_squared_error**
+- sklearn.metrics.**mean_squared_error**
 - sklearn.metrics.**mean_absolute_error**
 
 - tensorflow.**keras**
@@ -92,7 +92,7 @@ It is necessary to build and select the best, based on the requirement of MAE no
 - sklearn.model_selection.**GridSearchCV**
 - sklearn.model_selection.**KFold**
   
-- klearn.metrics.**mean_squared_error**
+- sklearn.metrics.**mean_squared_error**
 - sklearn.metrics.**mean_absolute_error**
 
 - tensorflow.**keras**
